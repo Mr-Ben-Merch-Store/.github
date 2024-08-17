@@ -32,7 +32,7 @@ If you need any help with any of the below steps, please contact another develop
 - Make a pull request to the development branch
 - (not required) Ask someone to review the request in the discord server if it's not being reviewed fast enough
 
-Good luck and have fun! If you are at Allen High school please log all the hours you spend on the project and DM bluerobin_ (the current club president) to verify your hours. (When DMing please add the commit logs/pull request with the
+Good luck and have fun! If you are at Allen High school please log all the hours you spend on the project and DM `bluerobin_`(the current club president) to verify your hours. (When DMing please add the commit logs/pull request with the
 amount of time that you spent on that commit so that it's easier to process)
 
 # Contribution rules
